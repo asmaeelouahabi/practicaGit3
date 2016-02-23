@@ -9,17 +9,19 @@ package prgitejemplo;
  *
  */
 public class GitAux {
-    
+
     public void metodoAlumno1(){
         System.out.println("metodo 1");
     }//ana asmae
-    
+
     public void metodoAlumno2(){
-        System.out.println("metodo 2 tekhdem loubna");
+        System.out.println("metodo 2 ");
+    System.out.println("modificado por hind")
     }
-    
+
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
+        //asmae hmara
     }
 public void testGitAux(){
 // metodo rama testing
